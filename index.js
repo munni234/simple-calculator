@@ -22,3 +22,4 @@ else if (answer.operator === "multiplication") {
 else if (answer.operator === "division") {
     console.log(answer.firstNumber / answer.secondNumber);
 }
+console.log('program end');
